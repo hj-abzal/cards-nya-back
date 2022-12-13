@@ -32,6 +32,7 @@ mongoose.connect(MongoDBUris, {
         const port = process.env.PORT || PORT;
 
         server.listen(port, () => {
+            console.log('MongoDBUris: ', MongoDBUris)
             console.log("Cards-Nya-back 2.0 listening on port: " + port);
         });
     })
