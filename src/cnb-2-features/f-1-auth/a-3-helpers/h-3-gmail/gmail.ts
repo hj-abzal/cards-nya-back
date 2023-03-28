@@ -28,7 +28,7 @@ export const sendMail = async (from: string, to: string, subject: string, html?:
     // for accept
     // https://myaccount.google.com/lesssecureapps
     const info = await transporter.sendMail({
-        from: 'it.karate.suan@gmai.com',
+        from: 'it.karate.suan@gmail.com',
         to,
         subject,
         text,
