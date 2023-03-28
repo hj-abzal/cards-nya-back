@@ -8,7 +8,7 @@ exports.MongoDBUris = `mongodb+srv://suan:7777@cluster0.xyyt9t9.mongodb.net/?ret
 console.log({ MongoDBUris: exports.MongoDBUris });
 exports.DEV_VERSION = false;
 exports.VERSION_2_0 = "/2.0";
-exports.GMAIL_USER = "";
+exports.GMAIL_USER = "171-421@mail.ru";
 exports.GMAIL_PASS = "";
 exports.PORT = 7542;
 //# sourceMappingURL=config.js.map

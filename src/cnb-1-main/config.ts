@@ -9,7 +9,7 @@ export const DEV_VERSION = false;
 
 export const VERSION_2_0 = "/2.0";
 
-export const GMAIL_USER = "";
-export const GMAIL_PASS = "";
+export const GMAIL_USER = "it.karate.suan@gmail.com";
+export const GMAIL_PASS = "it-karate-2022";
 
 export const PORT = 7542;
